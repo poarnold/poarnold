@@ -9,8 +9,9 @@ I'm [Precious](https://github.com/arnoldsynchron), but since you're in my repo y
 <!--
 **Arnoldsynchron/Arnoldsynchron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+<p align = 'center'>
 A Data Scientist and M.L Engineer :man_technologist: exploring new predictive technologies on the cloud :cloud: (Azure, AWS, GCP)
-
+</p>
 
 - I converse fluently in ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python), ![R](https://img.shields.io/badge/-R-8fcfd1?style=plastic&logo=R), ![MATLAB](https://img.shields.io/badge/-MATLAB-8fcfd1?style=plastic&logo=mathworks) and ![SQL](https://img.shields.io/badge/-SQL-8fcfd1?style=plastic&logo=mysql) to ![Excel](https://img.shields.io/badge/-Excel-8fcfd1?style=plastic&logo=microsoft-excel) as a Data Scientist :grinning:
 - I've worked on the ![Azure](https://img.shields.io/badge/-Azure-8fcfd1?style=plastic&logo=Microsoft-azure) Cloud Platform as part of my certification with Microsoft. 
@@ -29,7 +30,7 @@ If you feel I'm too powerful and wants to check something, feel free to. :sweat_
 <!-- [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arnoldsynchron&theme=white&show_icons=true)](https://github.com/arnoldsynchron) -->
 
 ### Connect With Me:
-- 💬 Ask me to contribute to your team and project?
+- 💬 Ask me to contribute to your team and project
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/arnoldsynchron?label=Twitter%20Follow&style=social)](https://twitter.com/Arnoldsynchron)
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=social&logo=Telegram&logoColor=white&link=https://www.telegram.com/@arnoldsynchron)](www.telegram.com/@arnoldsynchron)
