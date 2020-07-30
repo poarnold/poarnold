@@ -25,6 +25,7 @@ My super powers :mechanical_arm: are `data extraction`, `wrangling`, `modeling`,
 |:---:|:---:|:---:|:---:|:---:|
 |![Tableau](https://img.shields.io/badge/-Tableau-white?style=plastic&logo=tableau)|![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=plastic&logo=power-bi&logoColor=yellow)|![Tensorflow](http://img.shields.io/badge/-TensorFlow-white?style=plastic&logo=tensorflow&logoColor=orange)|![Pytorch](http://img.shields.io/badge/-Pytorch-grey?style=plastic&logo=pytorch&logoColor=orange)|![Jupyter Lab](https://img.shields.io/badge/-Jupyter-092E20?style=plastic&logo=jupyter)|
 </p>
+
 If you feel I'm too powerful, feel free to nudge me to show you all I can do. :sweat_smile:
 
 -------------------------
