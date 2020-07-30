@@ -1,6 +1,7 @@
 ## Namaste!
 ----------------------
 <p align="right"><img  src="visitor-badge.laobi.icu/badge?page_id=arnoldsynchron" alt="visitor badge"/></p>
+
 I'm Precious, but since you're on my readme you get to call me **Arnauld** or **Arnold** , whichever you Commit. I'm a Data Scientist, Machine Learning Engineer :man_technologist:, Petroleum Engineer and lifelong learner :books:
 
 <!--
