@@ -10,8 +10,8 @@ I'm [Precious](https://github.com/arnoldsynchron), but since you're on my repo y
 A Data Scientist and M.L Engineer :man_technologist: available for gigs and oportunites where I explore new analytics technology on the cloud (Azure, AWS, GCP)
 </p>
 
-- I converse fluently in `Python`, `R`, `MATLAB` and `SQL` to `Excel` as a Data Scientist :grinning:
-- I've worked on the 'Azure' Cloud Platform as part of my certification with Microsoft. 
+- I converse fluently in ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python), ![R](https://img.shields.io/badge/-R-8fcfd1?style=plastic&logo=R), ![MATLAB](https://img.shields.io/badge/-MATLAB-8fcfd1?style=plastic&logo=MATLAB) and ![SQL](https://img.shields.io/badge/-SQL-8fcfd1?style=plastic&logo=SQL) to ![Excel](https://img.shields.io/badge/-Excel-8fcfd1?style=plastic&logo=Excel) as a Data Scientist :grinning:
+- I've worked on the ![Azure](https://img.shields.io/badge/-Azure-8fcfd1?style=plastic&logo=Microsoft) Cloud Platform as part of my certification with Microsoft. 
 - 🌱 As a Machine Learning Engineer, I'm currently learning :books: and working on computer vision projects. 
 - I believe consistency is key to growth. I take small steps each day to become a **Fullstack Data Scientist**.
 
@@ -21,7 +21,7 @@ My super powers :mechanical_arm: are `data extraction`, `wrangling`, `modeling`,
 - ⚡ Fun fact: ...
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arnoldsynchron&theme=white&show_icons=true)](https://github.com/arnoldsynchron)
 
-### Contact:
+### Connect With Me:
 - 💬 Ask me about how I can contribute to your team and project?
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/arnoldsynchron?label=Twitter%20Follow&style=social)](https://twitter.com/Arnoldsynchron)
