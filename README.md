@@ -23,14 +23,13 @@ Visitors:
 Profile views
 Python Commits
 R commits
-<a href="mailto:arnoldsynchron@gmail.com?subject=Olá%20Stefany"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 ### Contact:
 - 💬 Ask me about how I can contribute to your team and project?
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/arnoldsynchron?label=Twitter%20Follow&style=social)](https://twitter.com/Arnoldsynchron)
-[![LinkedIn Connect](https://img.shields.io/linkedin/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/preciousonu/)
+[![LinkedIn Connect](http://img.shields.io/badge/-preciousonu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/preciousonu/)](www.linkedin.com/in/preciousonu/)
 [![Github Followers](https://img.shields.io/github/followers/arnoldsynchron?style=social)](www.github.com/Arnoldsynchron)
 [![Email]()](arnoldsynchron@gmail.com)
 
