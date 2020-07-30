@@ -7,7 +7,7 @@ I'm [Precious](https://github.com/arnoldsynchron), but since you're on my README
 **Arnoldsynchron/Arnoldsynchron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <p align='center'>
-A Data Scientist and Machhine Learning Engineer :man_technologist: available for gigs and oportunites while I explore new predictive analytics technology on the cloud (Azure, AWS, GCP)
+A Data Scientist and M.L Engineer :man_technologist: available for gigs and oportunites while I explore new predictive analytics technology on the cloud (Azure, AWS, GCP)
 </p>
 
 - I converse fluently in `Python`, `R`, `MATLAB` and `SQL` to `Excel` as a Data Scientist with the `Power`**BI** to grow! :sweat_smile:
