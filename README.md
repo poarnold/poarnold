@@ -29,7 +29,7 @@ R commits
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/arnoldsynchron?label=Twitter%20Follow&style=social)](https://twitter.com/Arnoldsynchron)
-[![LinkedIn Connect](http://img.shields.io/badge/-preciousonu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/preciousonu/)](www.linkedin.com/in/preciousonu/)
+[![LinkedIn Connect](http://img.shields.io/badge/-preciousonu-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://linkedin.com/in/preciousonu/)](https://www.linkedin.com/in/preciousonu/)
 [![Github Followers](https://img.shields.io/github/followers/arnoldsynchron?style=social)](www.github.com/Arnoldsynchron)
 [![Email]()](arnoldsynchron@gmail.com)
 
