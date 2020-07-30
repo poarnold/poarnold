@@ -1,21 +1,18 @@
-### Namaste!
-----------------------
+### Namaste,  👋!
 <p align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=arnoldsynchron" alt="visitor badge"/></p>
 
-I'm Precious, but since you're on my readme you get to call me **Arnauld** or **Arnold** , whichever you Commit.
-
-I'm a Data Scientist, Machine Learning Engineer :man_technologist:, Petroleum Engineer and lifelong learner :books:
+I'm [Precious](https://github.com/arnoldsynchron), but since you're on my README you get to call me **Arnauld** or **Arnold** , whichever you Commit.
 
 <!--
 **Arnoldsynchron/Arnoldsynchron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <p align='center'>
-A Data Scientist available for gigs and oportunites while I explore new predictive analytics technology on the cloud (Azure, AWS, GCP)
+A Data Scientist and Machhine Learning Engineer :man_technologist: available for gigs and oportunites while I explore new predictive analytics technology on the cloud (Azure, AWS, GCP)
 </p>
 
 - I converse fluently in `Python`, `R`, `MATLAB` and `SQL` to `Excel` as a Data Scientist with the `Power`**BI** to grow! :sweat_smile:
 - I've worked on the 'Azure' Cloud Platform as part of my certification with Microsoft. 
-- 🌱 As a Machine Learning Engineer, I'm currently learning and working on computer vision projects. 
+- 🌱 As a Machine Learning Engineer, I'm currently learning :books: and working on computer vision projects. 
 - I believe consistency is key to growth. I take small steps each day to become a **Fullstack Data Scientist**.
 
 My super powers are `data extraction`, `wrangling`, `modeling`, `visualizations`, `machine learning` and `deep learning`. If you feel I'm too powerful, feel free to nudge me to show you whats in me. :grinning:
@@ -33,6 +30,6 @@ My super powers are `data extraction`, `wrangling`, `modeling`, `visualizations`
 [![Gmail Contact](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Google&logoColor=white&link=https://arnoldsynchronAgmail.com)](https://arnoldsynchron@gmail.com)
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://www.telegram.com/@arnoldsynchron)](www.telegram.com/@arnoldsynchron)
 
-:clap:
+<p align = 'right>:clap:
 
 
