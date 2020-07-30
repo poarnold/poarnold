@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width=100>
 </p> -->
 
-I'm [Precious](https://github.com/arnoldsynchron), but since you're in my repo you get to call me **Arnauld** or **Arnold** , whichever you Commit.
+I'm [Precious](https://github.com/arnoldsynchron), but since you're in my repo you get to call me **Arnauld** or **Arnold** , whichever you Commit last.
 
 <!--
 **Arnoldsynchron/Arnoldsynchron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
