@@ -11,6 +11,7 @@ I'm a Data Scientist, Machine Learning Engineer :man_technologist:, Petroleum En
 <p align='center'>
 A Data Scientist available for gigs and oportunites while I explore new predictive analytics technology on the cloud (Azure, AWS, GCP)
 </p>
+
 - I converse fluently in `Python`, `R`, `MATLAB` and `SQL` to `Excel` as a Data Scientist with the `Power`**BI** to grow! :sweat_smile:
 - I've worked on the 'Azure' Cloud Platform as part of my certification with Microsoft. 
 - 🌱 As a Machine Learning Engineer, I'm currently learning and working on computer vision projects. 
