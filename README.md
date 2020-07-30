@@ -10,7 +10,7 @@ I'm [Precious](https://github.com/arnoldsynchron), but since you're in my repo y
 A Data Scientist and M.L Engineer :man_technologist: available for gigs where I explore new analytics technologies on the cloud (Azure, AWS, GCP)
 </p>
 
-- I converse fluently in ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python), ![R](https://img.shields.io/badge/-R-8fcfd1?style=plastic&logo=R), ![MATLAB](https://img.shields.io/badge/-MATLAB-8fcfd1?style=plastic&logo=MATLAB) and ![SQL](https://img.shields.io/badge/-SQL-8fcfd1?style=plastic&logo=sql) to ![Excel](https://img.shields.io/badge/-Excel-8fcfd1?style=plastic&logo=microsoft-excel) as a Data Scientist :grinning:
+- I converse fluently in ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python), ![R](https://img.shields.io/badge/-R-8fcfd1?style=plastic&logo=R), ![MATLAB](https://img.shields.io/badge/-MATLAB-8fcfd1?style=plastic&logo=mathworks) and ![SQL](https://img.shields.io/badge/-SQL-8fcfd1?style=plastic&logo=mysql) to ![Excel](https://img.shields.io/badge/-Excel-8fcfd1?style=plastic&logo=microsoft-excel) as a Data Scientist :grinning:
 - I've worked on the ![Azure](https://img.shields.io/badge/-Azure-8fcfd1?style=plastic&logo=Microsoft-azure) Cloud Platform as part of my certification with Microsoft. 
 - 🌱 As a Machine Learning Engineer, I'm currently learning :books: and working on computer vision projects. 
 - I believe consistency is key to growth. I take small steps each day to become a **Fullstack Data Scientist**.
