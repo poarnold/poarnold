@@ -2,12 +2,13 @@
 ----------------------
 <p align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=arnoldsynchron" alt="visitor badge"/></p>
 
-I'm Precious, but since you're on my readme you get to call me **Arnauld** or **Arnold** , whichever you Commit. I'm a Data Scientist, Machine Learning Engineer :man_technologist:, Petroleum Engineer and lifelong learner :books:
+I'm Precious, but since you're on my readme you get to call me **Arnauld** or **Arnold** , whichever you Commit.
+I'm a Data Scientist, Machine Learning Engineer :man_technologist:, Petroleum Engineer and lifelong learner :books:
 
 <!--
 **Arnoldsynchron/Arnoldsynchron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-< p align='center'>
+<p align='center'>
 A Data Scientist available for gigs and oportunites, to explore new predictive analytics technology on the cloud (Azure, AWS, GCP)
 </p>
 - I converse fluently in `Python`, `R`, `MATLAB` and `SQL`, and the `Power _BI_` I bring to the `Tableau` m on as a Data Scientist with the `Power BI` to grow! :sweat_smile:
