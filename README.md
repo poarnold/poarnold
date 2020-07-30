@@ -16,9 +16,9 @@ A Data Scientist and M.L Engineer :man_technologist: available for gigs where I 
 - I believe consistency is key to growth. I take small steps each day to become a **Fullstack Data Scientist**.
 
 My super powers :mechanical_arm: are `data extraction`, `wrangling`, `modeling`, `visualizations`, `machine learning` and `deep learning` using:
-|![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)|![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=plastic&logo=amazon-aws)|![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)|![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)|
-|![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)|![Jupyter Lab](https://img.shields.io/badge/-Jupyter-092E20?style=plastic&logo=jupyter)
-|![Tableau](https://img.shields.io/badge/-Tableau-white?style=plastic&logo=tableau)|![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=plastic&logo=power-bi&logoColor=yellow)|![Tensorflow](http://img.shields.io/badge/-TensorFlow-white?style=plastic&logo=tensorflow&logoColor=orange)|![Pytorch](http://img.shields.io/badge/-Pytorch-grey?style=plastic&logo=pytorch&logoColor=orange)
+|![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)|![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=plastic&logo=amazon-aws)|![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)|![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)|![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)|![Jupyter Lab](https://img.shields.io/badge/-Jupyter-092E20?style=plastic&logo=jupyter)|
+|:---:|:---:|:---:|:---:|:---:|
+|![Tableau](https://img.shields.io/badge/-Tableau-white?style=plastic&logo=tableau)|![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=plastic&logo=power-bi&logoColor=yellow)|![Tensorflow](http://img.shields.io/badge/-TensorFlow-white?style=plastic&logo=tensorflow&logoColor=orange)|![Pytorch](http://img.shields.io/badge/-Pytorch-grey?style=plastic&logo=pytorch&logoColor=orange)|
 If you feel I'm too powerful, feel free to nudge me to show you all I can do. :sweat_smile:
 
 -------------------------
