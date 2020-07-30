@@ -1,42 +1,35 @@
-## Precious Onu (Arnauld)
---------------------------
-### :grinning: Namaste!
+## :grinning: Namaste!
+----------------------
 
-I'm Precious Onu, but since you're on my page you get to call me `Arnauld` or `Arnold`, either that is easier to Commit. A Data Scientist :scientist:, Machine Learning Engineer :man_technologist:, Petroleum Engineer and lifelong learner :books:
+I'm Precious, but since you're on my page you get to call me **Arnauld** or **Arnold** , whichever you Commit.
+
+A Data Scientist :scientist:, Machine Learning Engineer :man_technologist:, Petroleum Engineer and lifelong learner :books:
+
 <!--
 **Arnoldsynchron/Arnoldsynchron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
-- A Data Scientist available for gigs, and oportunites to grow and explore new predictive analytics technology on the cloud (Azure, AWS, GCP)
--I converse fluently in `R`, `Python`, `MATLAB` and `SQL`, which makes me `Excel` as a Data Scientist providing you with `Power BI` to grow! :sweat_smile:
+A Data Scientist available for gigs :handshake:, and oportunites to grow and explore new predictive analytics technology on the cloud (Azure, AWS, GCP)
+- I converse fluently in `Python`, `R`, `MATLAB` and `SQL`, and the `Power _BI_` I bring to the `Tableau` m on as a Data Scientist with the `Power BI` to grow! :sweat_smile:
 - I've worked on the 'Azure' Cloud Platform as part of my certification with Microsoft. 
+- 🌱 As a Machine Learning Engineer, I'm currently learning and working on Computer Vision projects. 
+- I believe consistency is key to growth. I take small steps each day to become a Fullstack Data Scientist.
 
-- As a Machine Learning Engineer, I am currently working on Computer Vision projects. 
-I work on analytics, predictive and 
-- I believe consistency is key to life growth. Taking small steps each day
-- I am working towards being a Fullstack Data Scientist
+My super powers are data extraction, wrangling, modeling, visualizations, machine learning and deep learning. If you feel I'm too powerful, feel free to nudge me to show you whats in me.
 
 Visual Studio Code is my teserract
-My super powers are data extraction, wrangling, modeling, visualizations, machine learning and deep learning
-
+- ⚡ Fun fact: ...
+- If you 
 Profile views
 Python Commits
 R commits
 
 ### Contact:
+- 💬 Ask me about how I can contribute to your team and project?
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/arnoldsynchron?label=Twitter%20Follow&style=social)](https://twitter.com/Arnoldsynchron)
 [![LinkedIn Connect](https://www.linkedin.com/in/preciousonu/)
 [![Email](arnoldsynchron@gmail.com)]
+:clap:
 
 
