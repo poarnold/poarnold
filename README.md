@@ -21,7 +21,7 @@ My super powers :mechanical_arm: are `data extraction`, `wrangling`, `modeling`,
   
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)|![Amazon AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws)|![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)|![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&logo=gitlab)|![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
 :---:|:---:|:---:|:---:|:---:
-![Tableau](https://img.shields.io/badge/-Tableau-grey?style=for-the-badge&logo=tableau)|![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=for-the-badge&logo=power-bi&logoColor=yellow)|![Tensorflow](http://img.shields.io/badge/-TensorFlow-grey?style=for-the-badge&logo=tensorflow&logoColor=orange)|![Pytorch](http://img.shields.io/badge/-Pytorch-grey?style=for-the-badge&logo=pytorch&logoColor=orange)|![Jupyter Lab](https://img.shields.io/badge/-Jupyter-092E20?style=for-the-badge&logo=jupyter)
+![Tableau](https://img.shields.io/badge/-Tableau-white?style=for-the-badge&logo=tableau)|![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=for-the-badge&logo=power-bi&logoColor=yellow)|![Tensorflow](http://img.shields.io/badge/-TensorFlow-white?style=for-the-badge&logo=tensorflow&logoColor=orange)|![Pytorch](http://img.shields.io/badge/-Pytorch-grey?style=for-the-badge&logo=pytorch&logoColor=orange)|![Jupyter Lab](https://img.shields.io/badge/-Jupyter-092E20?style=for-the-badge&logo=jupyter)
 
 If you feel I'm too powerful and wants to check something, feel free to. :sweat_smile:
 
