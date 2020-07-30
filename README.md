@@ -1,8 +1,7 @@
 ### 👋 Namaste!
 <p align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=arnoldsynchron" alt="visitor badge"/></p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width=100>
-  <br><br> </p>
+  <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width=100></p>
 I'm [Precious](https://github.com/arnoldsynchron), but since you're in my repo you get to call me **Arnauld** or **Arnold** , whichever you Commit.
 
 <!--
