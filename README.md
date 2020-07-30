@@ -1,6 +1,6 @@
 ## Namaste!
 ----------------------
-
+<div align="right"><img  src="visitor-badge.laobi.icu/badge?page_id=arnoldsynchron" alt="visitor badge"/></p>
 I'm Precious, but since you're on my readme you get to call me **Arnauld** or **Arnold** , whichever you Commit. I'm a Data Scientist, Machine Learning Engineer :man_technologist:, Petroleum Engineer and lifelong learner :books:
 
 <!--
@@ -27,11 +27,11 @@ R commits
 ### Contact:
 - 💬 Ask me about how I can contribute to your team and project?
 
-
 [![Twitter Follow](https://img.shields.io/twitter/follow/arnoldsynchron?label=Twitter%20Follow&style=social)](https://twitter.com/Arnoldsynchron)
 [![LinkedIn Connect](http://img.shields.io/badge/-preciousonu-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://linkedin.com/in/preciousonu/)](https://www.linkedin.com/in/preciousonu/)
 [![Github Followers](https://img.shields.io/github/followers/arnoldsynchron?style=social)](www.github.com/Arnoldsynchron)
-[![Email]()](arnoldsynchron@gmail.com)
+[![Email](https://img.shields.io/badge/-arnold-red?style=flat-square&logo=Google&logoColor=white&link=https://arnoldsynchronAgmail.com)](https://arnoldsynchron@gmail.com)
+[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://www.telegram.com/@arnoldsynchron)](www.telegram.com/@arnoldsynchron)
 
 :clap:
 
