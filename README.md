@@ -29,7 +29,7 @@ If you feel I'm too powerful and wants to check something, feel free to. :sweat_
 <!-- [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arnoldsynchron&theme=white&show_icons=true)](https://github.com/arnoldsynchron) -->
 
 ### Connect With Me:
-- 💬 Ask me about how I will contribute to your team and project?
+- 💬 Ask me how I will contribute to your team and project?
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/arnoldsynchron?label=Twitter%20Follow&style=social)](https://twitter.com/Arnoldsynchron)
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=social&logo=Telegram&logoColor=white&link=https://www.telegram.com/@arnoldsynchron)](www.telegram.com/@arnoldsynchron)
