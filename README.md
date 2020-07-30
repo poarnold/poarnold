@@ -10,7 +10,7 @@ I'm [Precious](https://github.com/arnoldsynchron), but since you're in my repo y
 **Arnoldsynchron/Arnoldsynchron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <p align='center'>
-A Data Scientist and M.L Engineer :man_technologist: available for gigs where I explore new predictive technologies on the cloud (Azure, AWS, GCP)
+A Data Scientist and M.L Engineer :man_technologist: exploring new predictive technologies on the cloud (Azure, AWS, GCP)
 </p>
 
 - I converse fluently in ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python), ![R](https://img.shields.io/badge/-R-8fcfd1?style=plastic&logo=R), ![MATLAB](https://img.shields.io/badge/-MATLAB-8fcfd1?style=plastic&logo=mathworks) and ![SQL](https://img.shields.io/badge/-SQL-8fcfd1?style=plastic&logo=mysql) to ![Excel](https://img.shields.io/badge/-Excel-8fcfd1?style=plastic&logo=microsoft-excel) as a Data Scientist :grinning:
