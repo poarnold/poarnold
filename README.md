@@ -1,15 +1,13 @@
-## :grinning: Namaste!
+## Namaste!
 ----------------------
 
-I'm Precious, but since you're on my page you get to call me **Arnauld** or **Arnold** , whichever you Commit.
-
-A Data Scientist :scientist:, Machine Learning Engineer :man_technologist:, Petroleum Engineer and lifelong learner :books:
+I'm Precious, but since you're on my readme you get to call me **Arnauld** or **Arnold** , whichever you Commit. I'm a Data Scientist :scientist::page_facing_up:, Machine Learning Engineer :man_technologist:, Petroleum Engineer and lifelong learner :books:
 
 <!--
 **Arnoldsynchron/Arnoldsynchron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-A Data Scientist available for gigs :handshake:, and oportunites to grow and explore new predictive analytics technology on the cloud (Azure, AWS, GCP)
+A Data Scientist available for gigs and oportunites :office_worker: to grow and explore new predictive analytics technology on the cloud (Azure, AWS, GCP)
 - I converse fluently in `Python`, `R`, `MATLAB` and `SQL`, and the `Power _BI_` I bring to the `Tableau` m on as a Data Scientist with the `Power BI` to grow! :sweat_smile:
 - I've worked on the 'Azure' Cloud Platform as part of my certification with Microsoft. 
 - 🌱 As a Machine Learning Engineer, I'm currently learning and working on Computer Vision projects. 
