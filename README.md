@@ -10,8 +10,8 @@ I'm [Precious](https://github.com/arnoldsynchron), but since you're in my repo y
 A Data Scientist and M.L Engineer :man_technologist: available for gigs where I explore new analytics technologies on the cloud (Azure, AWS, GCP)
 </p>
 
-- I converse fluently in ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python), ![R](https://img.shields.io/badge/-R-8fcfd1?style=plastic&logo=R), ![MATLAB](https://img.shields.io/badge/-MATLAB-8fcfd1?style=plastic&logo=MATLAB) and ![SQL](https://img.shields.io/badge/-SQL-8fcfd1?style=plastic&logo=sql) to ![Excel](https://img.shields.io/badge/-Excel-8fcfd1?style=plastic&logo=excel) as a Data Scientist :grinning:
-- I've worked on the ![Azure](https://img.shields.io/badge/-Azure-8fcfd1?style=plastic&logo=Microsoft) Cloud Platform as part of my certification with Microsoft. 
+- I converse fluently in ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python), ![R](https://img.shields.io/badge/-R-8fcfd1?style=plastic&logo=R), ![MATLAB](https://img.shields.io/badge/-MATLAB-8fcfd1?style=plastic&logo=MATLAB) and ![SQL](https://img.shields.io/badge/-SQL-8fcfd1?style=plastic&logo=sql) to ![Excel](https://img.shields.io/badge/-Excel-8fcfd1?style=plastic&logo=microsoft-excel) as a Data Scientist :grinning:
+- I've worked on the ![Azure](https://img.shields.io/badge/-Azure-8fcfd1?style=plastic&logo=Microsoft-azure) Cloud Platform as part of my certification with Microsoft. 
 - 🌱 As a Machine Learning Engineer, I'm currently learning :books: and working on computer vision projects. 
 - I believe consistency is key to growth. I take small steps each day to become a **Fullstack Data Scientist**.
 
@@ -21,7 +21,7 @@ My super powers :mechanical_arm: are `data extraction`, `wrangling`, `modeling`,
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
   ![Jupyter Lab](https://img.shields.io/badge/-Jupyter-092E20?style=plastic&logo=jupyter)
   ![Tableau](https://img.shields.io/badge/-Tableau-white?style=plastic&logo=tableau)
-  ![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=plastic&logo=microsoft&logoColor=yellow)
+  ![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=plastic&logo=power-bi&logoColor=yellow)
   ![Tensorflow](http://img.shields.io/badge/-TensorFlow-white?style=plastic&logo=tensorflow&logoColor=orange)
   ![Pytorch](http://img.shields.io/badge/-Pytorch-grey?style=plastic&logo=pytorch&logoColor=orange). If you feel I'm too powerful, feel free to nudge me to show you all I can do. :sweat_smile:
 
@@ -34,7 +34,7 @@ My super powers :mechanical_arm: are `data extraction`, `wrangling`, `modeling`,
 [![Twitter Follow](https://img.shields.io/twitter/follow/arnoldsynchron?label=Twitter%20Follow&style=social)](https://twitter.com/Arnoldsynchron)
 [![LinkedIn Connect](http://img.shields.io/badge/-LinkedIn-blue?style=social&logo=LinkedIn&logoColor=white&link=https://linkedin.com/in/preciousonu/)](https://www.linkedin.com/in/preciousonu/)
 [![Github Followers](https://img.shields.io/github/followers/arnoldsynchron?style=social)](www.github.com/Arnoldsynchron)
-[![Gmail Contact](https://img.shields.io/badge/-Gmail-red?style=social&logo=Google&logoColor=white&link=https://arnoldsynchronAgmail.com)](https://arnoldsynchron@gmail.com)
+[![Gmail Contact](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Google&logoColor=white&link=https://arnoldsynchronAgmail.com)](https://arnoldsynchron@gmail.com)
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=social&logo=Telegram&logoColor=white&link=https://www.telegram.com/@arnoldsynchron)](www.telegram.com/@arnoldsynchron)
 
 <p align = 'right'> :clap:
