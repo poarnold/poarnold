@@ -36,7 +36,7 @@ If you feel I'm too powerful and wants to check something, feel free to. :sweat_
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=social&logo=Telegram&logoColor=white&link=https://www.telegram.com/@arnoldsynchron)](www.telegram.com/@arnoldsynchron)
 [![LinkedIn Connect](http://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white&link=https://linkedin.com/in/preciousonu/)](https://www.linkedin.com/in/preciousonu/)
 [![Github Followers](https://img.shields.io/github/followers/arnoldsynchron?style=social)](www.github.com/Arnoldsynchron)
-[![Gmail Contact](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Google&logoColor=white&link=https://arnoldsynchronAgmail.com)](https://arnoldsynchron@gmail.com)
+[![Gmail Contact](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white&link=https://arnoldsynchronAgmail.com)](https://arnoldsynchron@gmail.com)
 
 
 <p align = "right"> :clap:
