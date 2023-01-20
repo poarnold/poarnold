@@ -33,9 +33,9 @@ If you feel I'm too powerful and wants to check something, feel free to. :sweat_
 - 💬 Ask me to contribute to your team and project
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/arnoldsynchron?label=Twitter%20Follow&style=social)](https://twitter.com/poarnold_)
-[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=social&logo=Telegram&logoColor=white&link=https://www.telegram.com/@arnoldsynchron)](www.telegram.com/@arnoldsynchron)
+[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=social&logo=Telegram&logoColor=white&link=https://www.telegram.com/@poarnold)](www.telegram.com/@arnoldsynchron)
 [![LinkedIn Connect](http://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white&link=https://linkedin.com/in/preciousonu/)](https://www.linkedin.com/in/preciousonu/)
-[![Github Followers](https://img.shields.io/github/followers/arnoldsynchron?style=social)](www.github.com/Arnoldsynchron)
+[![Github Followers](https://img.shields.io/github/followers/arnoldsynchron?style=social)](www.github.com/poarnold)
 [![Gmail Contact](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white&link=https://arnoldsynchronAgmail.com)](https://arnoldsimplicity@gmail.com)
 
 
