@@ -13,9 +13,9 @@ I'm [Precious](https://github.com/arnoldsynchron), but since you're in my repo y
 A Cloud Architect, DevOps Engineer, Data Engineer, and Data Scientist :man_technologist: Always building on the cloud and on-premise :cloud: (Azure, AWS, GCP)
 </p>
 
-- I am an ![Amazon AWS](https://img.shields.io/badge/AWS-232F3E?style=plastic&logo=amazon-aws) cloud expert 
+- I am an ![Amazon AWS](https://img.shields.io/badge/AWS-232F3E?style=plastic&logo=amazon-aws) cloud expert with **10x** Active AWS Certifications
 - I converse fluently in ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python), ![R](https://img.shields.io/badge/-R-8fcfd1?style=plastic&logo=R), ![MATLAB](https://img.shields.io/badge/-MATLAB-8fcfd1?style=plastic&logo=mathworks) and ![SQL](https://img.shields.io/badge/-SQL-8fcfd1?style=plastic&logo=mysql) to ![Excel](https://img.shields.io/badge/-Excel-8fcfd1?style=plastic&logo=microsoft-excel) as a Data Scientist :grinning:
-- I've worked on the ![Azure](https://img.shields.io/badge/-Azure-8fcfd1?style=plastic&logo=Microsoft-azure) Cloud Platform with clients. My projects and certifications with Microsoft depicts my skills and in-depth experiences 
+- I've worked on the ![Azure](https://img.shields.io/badge/-Azure-8fcfd1?style=plastic&logo=Microsoft-azure) Cloud Platform with clients. My projects and **7x certifications** with Microsoft depicts my skills and in-depth experiences 
 - I believe consistency is key to growth and I learn daily
 
 My super powers :mechanical_arm: are `cloud automation and orchestration`, `observability`, `governance, security, identity & compliance`, `network and content delivery`, `data engineering`,`data extraction`, `wrangling`, `modeling`, `visualizations`, and `machine learning` using these:
